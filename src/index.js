@@ -11,12 +11,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAWNyXBxapxJYnZ4LWWTTDlkwLYaPv4WKY",
-  authDomain: "my-react-blog-by-obi.firebaseapp.com",
-  projectId: "my-react-blog-by-obi",
-  storageBucket: "my-react-blog-by-obi.appspot.com",
-  messagingSenderId: "850612257922",
-  appId: "1:850612257922:web:2133f113e65b18f237a09b"
+  //here youw will put the firebase information. get the keys and information from firebase info.js file
 };
 
 // Initialize Firebase
